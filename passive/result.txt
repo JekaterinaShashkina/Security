@@ -1,0 +1,3 @@
+ISP: TELE2/ SWIPNET
+City, country: Harjumaa, Estonia
+Lat/Lon: 59.437/24.7536
